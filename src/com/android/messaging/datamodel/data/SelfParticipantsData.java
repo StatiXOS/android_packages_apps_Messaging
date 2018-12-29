@@ -19,10 +19,10 @@ package com.android.messaging.datamodel.data;
 import android.database.Cursor;
 import android.support.v4.util.ArrayMap;
 
+import com.android.messaging.util.OsUtil;
+
 import java.util.ArrayList;
 import java.util.List;
-
-import com.android.messaging.util.OsUtil;
 
 /**
  * A class that contains the list of all self participants potentially involved in a conversation.

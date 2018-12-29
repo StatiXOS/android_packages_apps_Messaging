@@ -22,6 +22,7 @@ import android.net.Uri;
 import android.provider.BaseColumns;
 import android.provider.MediaStore.Images.Media;
 import android.text.TextUtils;
+
 import com.android.messaging.util.UriUtil;
 
 /**

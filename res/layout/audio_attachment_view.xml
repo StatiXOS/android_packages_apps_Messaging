@@ -16,9 +16,7 @@
 -->
 <!-- A reusable view that hosts an inline audio player. The view is used by both the media picker
      and the conversation to show an audio attachment -->
-<merge
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal">

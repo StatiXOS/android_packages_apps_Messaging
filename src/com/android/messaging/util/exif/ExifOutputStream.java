@@ -17,6 +17,7 @@
 package com.android.messaging.util.exif;
 
 import android.util.Log;
+
 import com.android.messaging.util.LogUtil;
 
 import java.io.BufferedOutputStream;

@@ -20,6 +20,7 @@ import android.hardware.Camera;
 import android.hardware.Camera.CameraInfo;
 
 import com.android.messaging.ui.mediapicker.CameraManager.CameraWrapper;
+
 import org.mockito.Mockito;
 import org.mockito.invocation.InvocationOnMock;
 import org.mockito.stubbing.Answer;

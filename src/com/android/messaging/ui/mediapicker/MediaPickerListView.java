@@ -18,7 +18,6 @@ package com.android.messaging.ui.mediapicker;
 
 import android.content.Context;
 import android.util.AttributeSet;
-import android.widget.GridView;
 import android.widget.ListView;
 
 public class MediaPickerListView extends ListView {

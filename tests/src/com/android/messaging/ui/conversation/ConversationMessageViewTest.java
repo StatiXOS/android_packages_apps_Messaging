@@ -17,7 +17,6 @@
 package com.android.messaging.ui.conversation;
 
 import android.test.suitebuilder.annotation.MediumTest;
-import android.test.suitebuilder.annotation.Suppress;
 import android.view.View;
 import android.widget.TextView;
 

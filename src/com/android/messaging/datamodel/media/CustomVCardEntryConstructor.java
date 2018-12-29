@@ -16,6 +16,7 @@
 package com.android.messaging.datamodel.media;
 
 import android.accounts.Account;
+
 import com.android.vcard.VCardConfig;
 import com.android.vcard.VCardInterpreter;
 import com.android.vcard.VCardProperty;

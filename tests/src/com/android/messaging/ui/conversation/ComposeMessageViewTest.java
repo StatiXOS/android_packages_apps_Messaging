@@ -16,9 +16,6 @@
 
 package com.android.messaging.ui.conversation;
 
-import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.ArgumentMatchers.isNull;
-
 import android.content.Context;
 import android.media.MediaPlayer;
 import android.test.suitebuilder.annotation.MediumTest;
@@ -42,7 +39,6 @@ import com.android.messaging.util.BugleGservices;
 import com.android.messaging.util.FakeMediaUtil;
 import com.android.messaging.util.ImeUtil;
 
-import org.mockito.ArgumentMatcher;
 import org.mockito.Matchers;
 import org.mockito.Mock;
 import org.mockito.Mockito;
@@ -51,6 +47,9 @@ import org.mockito.stubbing.Answer;
 
 import java.util.ArrayList;
 import java.util.Collections;
+
+import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.ArgumentMatchers.isNull;
 
 @MediumTest
 public class ComposeMessageViewTest extends ViewTest<ComposeMessageView> {

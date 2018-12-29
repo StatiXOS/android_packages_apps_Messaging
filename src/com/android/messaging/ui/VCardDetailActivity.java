@@ -21,7 +21,6 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.android.messaging.R;
-import com.android.messaging.util.Assert;
 
 /**
  * An activity that hosts VCardDetailFragment that shows the content of a VCard that contains one

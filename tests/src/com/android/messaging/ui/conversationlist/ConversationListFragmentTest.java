@@ -22,7 +22,6 @@ import android.support.v7.widget.RecyclerView;
 import android.test.suitebuilder.annotation.LargeTest;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.ListView;
 
 import com.android.messaging.FakeFactory;
 import com.android.messaging.R;

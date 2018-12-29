@@ -27,11 +27,11 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 
 import com.android.messaging.R;
+import com.android.messaging.datamodel.DataModel;
 import com.android.messaging.datamodel.binding.Binding;
 import com.android.messaging.datamodel.binding.BindingBase;
 import com.android.messaging.datamodel.data.BlockedParticipantsData;
 import com.android.messaging.datamodel.data.BlockedParticipantsData.BlockedParticipantsDataListener;
-import com.android.messaging.datamodel.DataModel;
 import com.android.messaging.util.Assert;
 
 /**

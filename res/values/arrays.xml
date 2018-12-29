@@ -14,7 +14,7 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <!-- String to match as no subject and filter out as a subject. For example, if the
          subject string is "no subject", we won't display that. We'll pretend
          no subject string was delivered. -->

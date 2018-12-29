@@ -20,7 +20,6 @@ import android.database.Cursor;
 import android.support.v4.util.SimpleArrayMap;
 
 import com.android.messaging.util.Assert;
-
 import com.google.common.annotations.VisibleForTesting;
 
 import java.util.ArrayList;

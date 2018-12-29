@@ -18,26 +18,21 @@ package com.android.messaging.ui.mediapicker;
 import android.content.Context;
 import android.database.Cursor;
 import android.graphics.Rect;
-import android.support.v7.mms.CarrierConfigValuesLoader;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.TouchDelegate;
 import android.view.View;
 import android.widget.CheckBox;
 import android.widget.FrameLayout;
 import android.widget.ImageView.ScaleType;
-
 import android.widget.Toast;
+
 import com.android.messaging.R;
 import com.android.messaging.datamodel.DataModel;
-import com.android.messaging.datamodel.data.DraftMessageData;
 import com.android.messaging.datamodel.data.GalleryGridItemData;
-import com.android.messaging.datamodel.data.ParticipantData;
 import com.android.messaging.sms.MmsConfig;
 import com.android.messaging.ui.AsyncImageView;
 import com.android.messaging.ui.ConversationDrawables;
-import com.android.messaging.util.UriUtil;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.util.concurrent.TimeUnit;

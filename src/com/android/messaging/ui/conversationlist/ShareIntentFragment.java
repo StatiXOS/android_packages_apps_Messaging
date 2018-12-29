@@ -31,13 +31,13 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.android.messaging.R;
+import com.android.messaging.datamodel.DataModel;
 import com.android.messaging.datamodel.binding.Binding;
 import com.android.messaging.datamodel.binding.BindingBase;
 import com.android.messaging.datamodel.data.ConversationListData;
-import com.android.messaging.datamodel.data.ConversationListItemData;
 import com.android.messaging.datamodel.data.ConversationListData.ConversationListDataListener;
+import com.android.messaging.datamodel.data.ConversationListItemData;
 import com.android.messaging.ui.ListEmptyView;
-import com.android.messaging.datamodel.DataModel;
 
 /**
  * Allow user to pick conversation to which an incoming attachment will be shared.

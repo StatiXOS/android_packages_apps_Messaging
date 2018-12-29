@@ -28,7 +28,6 @@ import com.android.messaging.R;
 import com.android.messaging.datamodel.FakeDataModel;
 import com.android.messaging.datamodel.action.ActionTestHelpers;
 import com.android.messaging.datamodel.action.ActionTestHelpers.StubActionService;
-import com.android.messaging.datamodel.action.ActionTestHelpers.StubActionService.StubActionServiceCallLog;
 import com.android.messaging.datamodel.action.GetOrCreateConversationAction;
 import com.android.messaging.datamodel.data.ContactPickerData;
 import com.android.messaging.datamodel.data.ParticipantData;
@@ -42,7 +41,6 @@ import org.mockito.Matchers;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 
-import java.util.ArrayList;
 import java.util.List;
 
 

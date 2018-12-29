@@ -21,8 +21,8 @@ import android.test.suitebuilder.annotation.SmallTest;
 import com.android.messaging.BugleTestCase;
 import com.android.messaging.FakeFactory;
 import com.android.messaging.datamodel.data.ConversationData;
-import com.android.messaging.datamodel.data.ConversationListData;
 import com.android.messaging.datamodel.data.ConversationData.ConversationDataListener;
+import com.android.messaging.datamodel.data.ConversationListData;
 import com.android.messaging.datamodel.data.ConversationListData.ConversationListDataListener;
 
 import org.mockito.Mock;

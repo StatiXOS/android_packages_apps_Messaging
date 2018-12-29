@@ -28,12 +28,11 @@ import com.android.messaging.datamodel.data.MessageData;
 import com.android.messaging.datamodel.data.MessagePartData;
 import com.android.messaging.datamodel.data.TestDataFactory;
 import com.android.messaging.ui.FragmentTestCase;
-import com.android.messaging.ui.TestActivity;
 import com.android.messaging.ui.TestActivity.FragmentEventListener;
 import com.android.messaging.ui.attachmentchooser.AttachmentChooserFragment;
+import com.android.messaging.ui.attachmentchooser.AttachmentChooserFragment.AttachmentChooserFragmentHost;
 import com.android.messaging.ui.attachmentchooser.AttachmentGridItemView;
 import com.android.messaging.ui.attachmentchooser.AttachmentGridView;
-import com.android.messaging.ui.attachmentchooser.AttachmentChooserFragment.AttachmentChooserFragmentHost;
 import com.android.messaging.ui.conversationlist.ConversationListFragment;
 
 import org.mockito.ArgumentMatcher;

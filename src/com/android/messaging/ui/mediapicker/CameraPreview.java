@@ -21,6 +21,7 @@ import android.content.res.Configuration;
 import android.hardware.Camera;
 import android.view.View;
 import android.view.View.MeasureSpec;
+
 import com.android.messaging.util.Assert;
 
 import java.io.IOException;

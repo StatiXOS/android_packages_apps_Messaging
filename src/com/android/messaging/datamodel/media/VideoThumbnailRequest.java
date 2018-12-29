@@ -24,7 +24,6 @@ import android.provider.MediaStore.Video.Thumbnails;
 import com.android.messaging.Factory;
 import com.android.messaging.util.MediaMetadataRetrieverWrapper;
 import com.android.messaging.util.MediaUtil;
-import com.android.messaging.util.OsUtil;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

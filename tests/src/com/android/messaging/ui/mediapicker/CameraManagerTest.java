@@ -20,8 +20,10 @@ import android.hardware.Camera;
 import android.hardware.Camera.CameraInfo;
 import android.os.AsyncTask;
 import android.test.suitebuilder.annotation.SmallTest;
+
 import com.android.messaging.BugleTestCase;
 import com.android.messaging.ui.mediapicker.CameraManager.CameraWrapper;
+
 import org.mockito.InOrder;
 import org.mockito.Mockito;
 

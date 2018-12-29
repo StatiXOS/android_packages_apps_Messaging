@@ -24,9 +24,9 @@ import android.os.Bundle;
 import com.android.messaging.Factory;
 import com.android.messaging.datamodel.data.PendingAttachmentData;
 import com.android.messaging.ui.UIIntents;
-import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.FileUtil;
 import com.android.messaging.util.ImageUtils;
+import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.SafeAsyncTask;
 
 /**

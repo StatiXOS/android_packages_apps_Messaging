@@ -22,6 +22,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CursorAdapter;
+
 import com.android.messaging.R;
 import com.android.messaging.ui.mediapicker.AudioListItemView.HostInterface;
 import com.android.messaging.util.Assert;

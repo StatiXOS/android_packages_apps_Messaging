@@ -21,8 +21,8 @@ import com.android.messaging.BugleTestCase;
 import com.android.messaging.FakeFactory;
 import com.android.messaging.datamodel.FakeCursor;
 import com.android.messaging.datamodel.data.ConversationMessageData;
-import com.android.messaging.datamodel.data.MessageData;
 import com.android.messaging.datamodel.data.ConversationMessageData.ConversationMessageViewColumns;
+import com.android.messaging.datamodel.data.MessageData;
 
 @SmallTest
 public class ConversationMessageDataTest extends BugleTestCase {

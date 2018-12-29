@@ -19,7 +19,6 @@ package com.android.messaging.datamodel;
 import android.provider.BaseColumns;
 
 import com.android.ex.photo.provider.PhotoContract.PhotoViewColumns;
-
 import com.android.messaging.datamodel.DatabaseHelper.MessageColumns;
 import com.android.messaging.datamodel.DatabaseHelper.PartColumns;
 import com.android.messaging.datamodel.DatabaseHelper.ParticipantColumns;

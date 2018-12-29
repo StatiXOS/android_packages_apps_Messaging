@@ -15,8 +15,7 @@
     limitations under the License.
  -->
 
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name" msgid="3062916848713424329">"Пораки"</string>
     <string name="share_intent_label" msgid="6920483598866144717">"Пораки"</string>
     <string name="share_intent_activity_label" msgid="2939454246983196756">"Изберете разговор"</string>

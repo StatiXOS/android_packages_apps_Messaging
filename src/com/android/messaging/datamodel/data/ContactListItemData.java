@@ -21,7 +21,6 @@ import android.net.Uri;
 import android.provider.ContactsContract.DisplayNameSources;
 
 import com.android.ex.chips.RecipientEntry;
-
 import com.android.messaging.util.Assert;
 import com.android.messaging.util.ContactRecipientEntryUtils;
 import com.android.messaging.util.ContactUtil;

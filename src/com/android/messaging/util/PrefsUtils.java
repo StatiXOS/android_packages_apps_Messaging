@@ -17,6 +17,7 @@
 package com.android.messaging.util;
 
 import android.content.Context;
+
 import com.android.messaging.Factory;
 import com.android.messaging.R;
 import com.android.messaging.util.BuglePrefs;

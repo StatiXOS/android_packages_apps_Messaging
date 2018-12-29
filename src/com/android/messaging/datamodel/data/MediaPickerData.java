@@ -28,7 +28,6 @@ import com.android.messaging.datamodel.BoundCursorLoader;
 import com.android.messaging.datamodel.GalleryBoundCursorLoader;
 import com.android.messaging.datamodel.binding.BindableData;
 import com.android.messaging.datamodel.binding.BindingBase;
-import com.android.messaging.ui.mediapicker.MediaPicker;
 import com.android.messaging.util.Assert;
 import com.android.messaging.util.BuglePrefs;
 import com.android.messaging.util.BuglePrefsKeys;

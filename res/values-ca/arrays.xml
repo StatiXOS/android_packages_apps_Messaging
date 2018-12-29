@@ -15,8 +15,7 @@
     limitations under the License.
  -->
 
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
   <string-array name="empty_subject_strings">
     <item msgid="8900116186849071724">"sense assumpte"</item>
     <item msgid="272485471009191934">"nosubject"</item>

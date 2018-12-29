@@ -20,7 +20,6 @@ import android.database.Cursor;
 import android.graphics.Rect;
 import android.net.Uri;
 import android.os.AsyncTask;
-import android.os.Handler;
 import android.provider.BaseColumns;
 import android.provider.MediaStore.Images.Media;
 import android.text.TextUtils;

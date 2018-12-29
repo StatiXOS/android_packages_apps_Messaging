@@ -21,9 +21,7 @@ import android.content.pm.PackageManager;
 import android.database.Cursor;
 import android.database.MatrixCursor;
 import android.database.MergeCursor;
-import android.provider.Telephony;
 import android.support.v7.app.ActionBar;
-import android.support.v7.mms.CarrierConfigValuesLoader;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -31,16 +29,14 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import android.widget.Toast;
 import com.android.messaging.Factory;
 import com.android.messaging.R;
 import com.android.messaging.datamodel.data.GalleryGridItemData;
 import com.android.messaging.datamodel.data.MediaPickerData;
-import com.android.messaging.datamodel.data.MessagePartData;
 import com.android.messaging.datamodel.data.MediaPickerData.MediaPickerDataListener;
+import com.android.messaging.datamodel.data.MessagePartData;
 import com.android.messaging.util.Assert;
 import com.android.messaging.util.OsUtil;
-import com.android.messaging.util.UriUtil;
 
 /**
  * Chooser which allows the user to select one or more existing images or videos

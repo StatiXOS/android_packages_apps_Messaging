@@ -32,9 +32,9 @@ import com.android.messaging.ui.BaseBugleActivity;
 import com.android.messaging.ui.UIIntents;
 import com.android.messaging.util.Assert;
 import com.android.messaging.util.ContentType;
+import com.android.messaging.util.FileUtil;
 import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.MediaMetadataRetrieverWrapper;
-import com.android.messaging.util.FileUtil;
 import com.android.messaging.util.UriUtil;
 
 import java.io.IOException;

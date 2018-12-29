@@ -18,8 +18,8 @@ package com.android.messaging.datamodel.data;
 import android.test.suitebuilder.annotation.SmallTest;
 
 import com.android.messaging.BugleTestCase;
-import com.android.messaging.datamodel.FakeCursor;
 import com.android.messaging.datamodel.DatabaseHelper.ParticipantColumns;
+import com.android.messaging.datamodel.FakeCursor;
 import com.android.messaging.datamodel.data.ConversationParticipantsData;
 import com.android.messaging.datamodel.data.ParticipantData;
 

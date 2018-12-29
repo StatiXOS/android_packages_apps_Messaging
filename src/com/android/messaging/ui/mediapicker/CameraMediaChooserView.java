@@ -24,6 +24,7 @@ import android.os.Parcelable;
 import android.util.AttributeSet;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+
 import com.android.messaging.R;
 import com.android.messaging.ui.PersistentInstanceState;
 import com.android.messaging.util.ThreadUtil;
